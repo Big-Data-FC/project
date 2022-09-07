@@ -30,4 +30,4 @@ The notebook follows the thinking flow that happened during development stage:
    4. Prior-based approach (RP coefficient)
 5. Final observations and **conclusion**
 
-_By [Daniele Solombrino](https://github.com/dansolombrino) and [Davide Quaranta](https://github.com/fortym2)._
+_By [Daniele Solombrino](https://github.com/dansolombrino) and [Davide Quaranta](https://github.com/davquar)._
